@@ -1,0 +1,7 @@
+{
+  "name": "Sathi",
+  "description": "GenAI-powered daily companion for senior citizens with voice assistance, document simplifier, reminders, scam shield, wellbeing check-in, and SOS safety.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
